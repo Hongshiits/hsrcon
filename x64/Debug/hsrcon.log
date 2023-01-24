@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\potral_work_disk\PROJECT\hmsc_reb\hsrcon\hsrcon\main.cpp(6,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+F:\potral_work_disk\PROJECT\hmsc_reb\hsrcon\hsrcon\main.cpp(6,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+F:\potral_work_disk\PROJECT\hmsc_reb\hsrcon\hsrcon\main.cpp(73,32): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+  hsrcon.vcxproj -> F:\potral_work_disk\PROJECT\hmsc_reb\hsrcon\hsrcon\x64\Debug\hsrcon.exe
